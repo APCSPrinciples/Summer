@@ -6,6 +6,7 @@ Here are some links to organizations that have run summer computer science and e
 Computer Science
 -----------------
 [SFPD Future Grads](http://sanfranciscopolice.org/YouthpRogram) has paid summer internships, many with tech companies   
+[Free City College Cybersecurity Summer Camp](CCSF_Cybersecurity_Summer_Camp_Flyer.pdf)
 http://www.campsudo.org/   
 https://girlswhocode.fluidreview.com/   
 https://www.makeschool.com/?source=mgwu   
