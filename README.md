@@ -7,6 +7,7 @@ Computer Science
 -----------------
 [SFPD Future Grads](http://sanfranciscopolice.org/YouthpRogram) has paid summer internships, many with tech companies   
 [Free City College Cybersecurity Summer Camp](CCSF_Cybersecurity_Summer_Camp_Flyer.pdf)   
+[Mission Bit Software Engineer Career Prep Summer Program for HS Seniors](https://www.missionbit.com/employment/)   
 http://www.campsudo.org/   
 https://girlswhocode.fluidreview.com/   
 https://www.makeschool.com/?source=mgwu   
