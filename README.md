@@ -11,7 +11,8 @@ Computer Science
 http://www.campsudo.org/   
 https://girlswhocode.fluidreview.com/   
 https://www.makeschool.com/?source=mgwu   
-http://www.missionbit.com/   
+[Mission Bitt Summer coding classes](https://www.missionbit.com/programs/) offer a $300 stipend for completion   
+[Girls grades 10 & 11: Columbia University Summer Computer Science Program June 12 - 16](
 http://www.ccsf.edu/en/future-students/future-academy_pathway-dual-enrollment-students/classes_at_city_collegeofsanfrancisco.html   
 https://www.bavc.org/   
 http://oso.stanford.edu/programs/209-girls-teaching-girls-to-code   
