@@ -5,7 +5,8 @@ Here are some links to organizations that have run summer computer science and e
  
 Computer Science
 -----------------
-[SFPD Future Grads](http://sanfranciscopolice.org/YouthpRogram) has paid summer internships, many with tech companies. [2017 application](2017%20Future%20Grads%20Application_030317.pdf)   
+[SFPD Future Grads](http://sanfranciscopolice.org/YouthpRogram) has paid summer internships, many with tech companies. [2017 application](2017%20Future%20Grads%20Application_030317.pdf)  
+[Enterprise for High School Students](https://enterpriseforyouth.org/for-students/) offers different placements, occaisonally with high tech companies.
 [Free City College Cybersecurity Summer Camp](CCSF_Cybersecurity_Summer_Camp_Flyer.pdf)   
 [Mission Bit Software Engineer Career Prep Summer Program for HS Seniors](https://www.missionbit.com/employment/)   
 [Google Computer Science Summer Institute for graduating seniors](https://edu.google.com/resources/programs/computer-science-summer-institute/#!overview)   
